@@ -1,0 +1,28 @@
+---
+title: 'PSYC259: Quiz 1'
+author: "Amanda Mae Woodward"
+date: "10/17/2020"
+output: html_document
+---
+Assignment: For this assignment, you will need to use the skills you have developed in the last two weeks. You **are** allowed to work with each other
+
+**Pt 1**
+1. Create a dataframe containing two columns: one with five desserts and one with your ratings of them. 
+2. What are the mean and standard deviation of your ratings? 
+3. Print just the row containing your highest ranked dessert. 
+
+**Part 2**
+4. Create a function that indicates whether a number is even or odd.
+5. Test your function by inputting the number 19,
+6. Create a vector containing the numbers 1 through 100.
+7. Modify your function to test whether all numbers in a vector are even or odd. (hint: this means you need to iterate through a list!) 
+8. Test your new function using the vector in #6. 
+
+**Pt 3**
+All questions will use the diamonds dataset (in the ggplot2 library).
+
+9. Summarize the dataset. 
+10. What type of variable is cut? How do you know? 
+11. What type of variable is price? How do you know?
+12. Create a subset of the dataset that contains all diamonds with a VS1 clarity. 13.How many diamonds are in this dataset? 
+14. Add a column to this subset indicating whether the diamonds is small (less than the first quartile), average (between the first and third quartile), or large (greater than the third quartile).
